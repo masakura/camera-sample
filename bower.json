@@ -1,0 +1,7 @@
+{
+  "name": "camera-sample",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
